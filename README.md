@@ -1,2 +1,2 @@
-# 2026-2027_sec-21-17_PythonProgrammingCourse
+# 2026-27_Sec-21-14_PythonProgrammingCourse
 this description contains all python repository
